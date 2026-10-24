@@ -22,15 +22,15 @@ A collection of academic digital design and ASIC physical design laboratory proj
 - Macro integration
 - TSMC 65 nm technology node
 
-## Repository Structure
-
-Each project directory contains its corresponding laboratory report in PDF format.
-
 ## Tools and Technology
 
 **Technology node:** TSMC 65 nm
 
 Refer to the individual reports for the specific tools, design flow, and implementation results used in each lab.
+
+## Repository Structure
+
+Each project directory contains its corresponding laboratory report in PDF format.
 
 ## Disclaimer
 
