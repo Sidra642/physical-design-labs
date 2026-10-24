@@ -34,4 +34,4 @@ Each project directory contains its corresponding laboratory report in PDF forma
 
 ## Disclaimer
 
-These reports document academic laboratory work. Technology-specific libraries, proprietary PDK files, and restricted implementation collateral are not intentionally included. Materials are shared subject to applicable academic and licensing permissions.
+These reports document academic laboratory work. Technology-specific libraries, proprietary PDK files, and restricted implementation collateral are not intentionally included.
